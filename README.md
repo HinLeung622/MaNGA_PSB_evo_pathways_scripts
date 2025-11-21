@@ -1,9 +1,9 @@
 # Publicly available scripts associated with Leung et al. 2025
-Link to paper: pending DOI
+Link to paper: https://doi.org/10.1093/mnras/staf1493
 
 This repository contains 7 scripts in the folder `scripts`. Five of which are used to reproduce figures 3-7 of the paper, while the last two scripts are demonstrations of how to use `Bagpipes` to perform the fits following the method detailed in the paper, both for the PSB and central regions.
 
-Some of the data required for these scripts are not stored here. They can be found at pending url. After downloading files from there, the file struction should look like the following:
+Some of the data required for these scripts are not stored here. They can be found at https://doi.org/10.17630/e32daf65-6997-4527-9008-b9f1ea6b86e8. After downloading files from there, the file struction should look like the following:
 ```
 .
 ├── data
